@@ -1,6 +1,7 @@
 // date : 23-07-2021
 // project name : rock paper and scissors game
 // author : Priyanshi Agrawal
+// co-author : Atharv Vani
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
